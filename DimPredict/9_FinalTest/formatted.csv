@@ -1,0 +1,53 @@
+﻿ajn18-004,[C6N2H14][(La(H2O)2)2(ox)3(SeO4)].6H2O,yes,3D,dabco,P21/n,JD111.3,N,include,N,,,
+ajn19-004,[C4H14N2][Er2(ox)3(HSeO3)2].4H2O,yes,3D,"1,4-dab",P21/n,JE49.20,N,include,Y - but proceed,,,
+ajn19-005,[C6H16N2][(Er(H2O))2(C2O4)3(SeO4)].2H2O,yes,2D,"2,5-dmpip",P-1,JE44.16,N,include,Y - but proceed,,,
+ajn19-006,[C10H10N2][Er(H2O)3(C2O4)(SeO4)]2.4H2O,yes,1D,"4,4'-bpy",P21/n,JE44.4,N,include,Y - but proceed,,,
+ajn19-008,[C6H16N2][Er(H2O)(C2O4)2]2.6H2O,yes,3D,"2,5-dmpip",P-1,JE44.12,N,include,N,,,
+ajn19-009,[C5H14N2][Er2(C2O4)3(HSeO3)2].4H2O,yes,3D,2-mpip,Cm,JE49.5,N,include,Y - but proceed,,,
+ajn19-010,[C4H16N3][Er(H2O)(C2O4)2]3.6H2O,yes,2D,deta,P-1,JE46.5,N,include,Y - but proceed,,,
+ajn19-013,[C6H14N2][Er(H2O)(C2O4)2]2.6H2O,yes,3D,dabco,P-1,JZD163.6,N,include,N,,,
+ajn19-012,[C2H10N2][Er(H2O)(C2O4)2]2.5H2O,yes,2D,en,Pc,JE68.3,N,include,Y - but proceed,,,
+ajn20-005,[C2H10N2][Er(H2O)(C2O4)2]2·2.632H2O,yes,3D,en,P-1,LGS70.16,N,include,N,,,
+ajn20-006,[C6H14N2][Nd2Cl(ox)4].4H2O,yes,2D,dabco,P4cc,LGS63.7,N,include,N,,,
+mz13-128,[C6H14N2][(VO)2(C2O4)(SeO3)2]·3H2O,yes,2D,dabco,Cmcm,YY17.6,N,exclude,Y - but proceed,,,
+mz14-090,[C7H20N2][(VO)2(C2O4)(SeO3)2]·0.5H2O,yes,2D,tmdap,Cc,KE64.4,N,exclude,N,,,
+mz14a-021,[C5H14N2][(VO)2(C2O4)(SeO3)2]·3H2O,yes,2D,4-apipd,P-1,KE56.5,N,exclude,N,,Y,Y
+mz14a-023,[C6H16N2][(VO)2(C2O4)(SeO3)2]·2H2O,yes,2D,4-ampipd,P-1,KE56.10,N,exclude,N,,Y,Y
+mz14a-024,[C5H16N2][(VO)2(C2O4)(SeO3)2]·2H2O,yes,2D,dmdap,P21,Ke56.13,N,exclude,N,,,
+ajn17-036,[C3H12N2][(VO)2(C2O4)(SeO3)2]·2H2O,yes,2D,1/3-dap,C2/c,OH233.2,N,exclude,N,,,
+mzp14-001,[C4H14N2][(VO)2(C2O4)(SeO3)2].H2O,yes,2D,"1-m-1,3-dap",Pnma,?,N,exclude,Y,,,
+mz11-250,[C4H12N2][V2Te2O10],yes,2D,S-apry,P21,MS115.6,N,include,N,,Y,Y
+mz14q-130,[C3H12N2][V2Te2O10],yes,2D,1-med,P21/c,AM38.8y,N,include,N,,Y,Y
+mz14q-206/mz15a-244,[C6H18N2][V2Te2O10]·0.5H2O,yes,2D,"2-m-1,5-dap",C2/c,MW49.7,N,include,N,,Y,Y
+ajn16-007,[C4H12N2][V2Te2O10],yes,2D,3-apyr,P21/c,AAM45.9,N,include,N,,,
+mz12-240,[C3H12N2][V3O5(SeO3)3],yes,2D,"1,3-dap",P21/m,MS299.10,N,include,Y - but proceed,,,
+mz15a-134,[C6H14N2][V2O4(SeO3)2]·2H2O,yes,2D,dabco,P-1,YH121.7,HOQZAP,exclude,Y - but proceed,,,
+ajn17-019,[C6H16N2]4[V10O28][HSeO3]2·3H2O,yes,0D,2/6-dmpip,C2/c,OH154.16,N,include,N,,,
+ajn17-021,[C3H12N2]6[(VO)12O4(H8B16O42)]·10.5H2O,yes,0D,"1,2-dap",C2/c,XJ53.15,BIMKAM (no 3D),EXCLUDE,Y,,,
+ajn17-023,[C5H14N2]6[(VO)12O6(H6B18O42)]·14H2O,yes,0D,2-mpip,C2/m,XJ58.12,N,EXCLUDE,Y,,,
+ajn17-024,[C6H16N2]2[C6H15N2]4[(VO)12O6(H6B18O42)]·16H2O,yes,0D,"2,5-dmpip",P-1,XJ53.25,N,EXCLUDE,Y,,,
+mz12-310,[H3O]2[C6H18N2]6[(VO)12O6(H6B18O42)]·13H2O,yes,0D,dmeed,P21/n,HW37.10,N,EXCLUDE,N,,Y,Y
+mz12-315,[H3O]2[C6H18N2]6[(VO)12O6(H6B18O42)]·19H2O,yes,0D,tmed,P21/n,HW44.4,N,EXCLUDE,N,,Y,Y
+mz12-231,[H3O]2[C3H12N2]5[(VO)10(H4B12O28)2]·8H2O,yes,0D,"1,3-dap",P21212,HW33.8,NUNFAF,EXCLUDE,N,,Y,Y
+ajn17-026,[C10H30N2]3[(VO)10(H4B12O28)2].22H2O,yes,0D,spermine,C2/c,XJ69.13,N,EXCLUDE,Y,,,
+ajn17-027,isolated HBO32- anion,yes,0D,"1,1,4,4-tmdab",P21/c,?,N,EXCLUDE,Y,,,
+gmf11-066,[C4H16N2]2[(VO)(SeO3)(HSeO3)]8·9.3H2O,yes,0D,bapp,P-1,MS137.6,N,include,N,,,
+gmf11-070,[C4H12N2]3[V10O28]·6H2O,yes,0D,pip,P21/c,JK78.5,N,include,N,,Y,Y
+gmf12-006,[C5H14N2]3[V10O28]·9.5H2O,yes,0D,R-2-mpip,P21,JO109.4,N,include,Y - but proceed,,Y,Y
+gmf12-049,[C5H14N2]3[V10O28]·2H2O,yes,0D,hpip,P21/n,MS131.13,N,include,N,,Y,Y
+mz10-433,[C7H16N2]3[V10O28].7.5H2O,yes,0D,aqn,P21/n,MS61.11,N,include,Y - but proceed,,,
+mz11-213,[C5H14N2]3[V10O28]·5H2O,yes,0D,2-mpip,P-1,JO80.14,N,include,N,,Y,Y
+mz11-214,[C4H12N2]3[V10O28]·3H2O,yes,0D,3-apry,P-1,MS92.7,N,include,N,,Y,Y
+mz11-215,[C5H14N2]2[C2H10N2][V10O28]·4H2O,yes,0D,2-mpip/en,P21/n,TA16.6,N,include,N,,Y,Y
+mz13-276,[C4H14N2]3[V10O28]·4H2O,yes,0D,dmed,C2/c,KE2.23,N,include,N,,Y,Y
+mz14q-128,[NH4]2[N2C5H14]2[V10O28]·6H2O,yes,0D,1.4-apip,Pcab,MW35.7,N,include,N,,Y,Y
+mz14q-168,[C7H20N2]2[V4O12],yes,0D,"1,1,2,2-tmdap",P-1,AM40.3c,N,include,N,,Y,Y
+mz14q-187,[C12H27N2][VO3],yes,1D,1-opip,P21/c,MW44.7,N,include,Y - but proceed,,,
+mz15q-240,[C7H18N4][V10O28]·5H2O,yes,0D,tmta,C2/m,YH94.14,N,include,N,,,
+x0079,[N2C5H14]2[Mo8O26]·2H2O,yes,0D,1-mpip,P21/n,EAM36.3,N,include,Y - but proceed,,,
+X0133,[N2C6H18][(MoO3)3(SO4)]·H2O,yes,1D,tmed,P21/n,AJ14.2,N,include,N,,Y,Y
+x0136,[N2C6H18]3[Mo9O30]·2H2O,yes,0D,tmed,P21/n,AJ15.1.2,N,include,N,,Y,Y
+x0219,[C8H14N2]2[Mo8O26],yes,1D,"1,4-xd",P-1,JN83.3,N,include,Y - but proceed,,,
+x0228,[C7H20N2]2[Mo8O26],yes,0D,"1,7-dah",P21/n,JN91.4,N,include,Y - but proceed,,,
+x0322,[C6N2H18]3[Mo9O30]· H2O,yes,1D,dmeed,C2/c,AJb16.2,N,include,Y - but proceed,,,
+x0346,[C6N4H21]2[Mo7O24]·6H2O,yes,0D,tren,P-1,AJb25.1,NATDEU,exclude,N,,Y,Y

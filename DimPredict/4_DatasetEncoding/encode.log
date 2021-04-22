@@ -1,0 +1,56 @@
+---
+encoding: ../1_Condensation/condensed_None.pkl
+encoded shape: (3725, 96)
+saved as: dataset_none_ablation.pkl
+---
+encoding: ../1_Condensation/condensed_elements-bus.pkl
+encoded shape: (819, 96)
+saved as: dataset_eb_ablation.pkl
+---
+encoding: ../1_Condensation/condensed_elements-smiles-bus.pkl
+encoded shape: (2671, 538)
+saved as: dataset_eab_GetHashedAtomPairFingerprintAsBitVect.pkl
+---
+encoding: ../1_Condensation/condensed_elements-smiles-bus.pkl
+encoded shape: (2671, 602)
+saved as: dataset_eab_LayeredFingerprint.pkl
+---
+encoding: ../1_Condensation/condensed_elements-smiles-bus.pkl
+encoded shape: (2671, 179)
+saved as: dataset_eab_GetMACCSKeysFingerprint.pkl
+---
+encoding: ../1_Condensation/condensed_elements-smiles-bus.pkl
+encoded shape: (2671, 510)
+saved as: dataset_eab_GetMorganFingerprintAsBitVect.pkl
+---
+encoding: ../1_Condensation/condensed_elements-smiles-bus.pkl
+encoded shape: (2671, 550)
+saved as: dataset_eab_PatternFingerprint.pkl
+---
+encoding: ../1_Condensation/condensed_elements-smiles-bus.pkl
+encoded shape: (2671, 608)
+saved as: dataset_eab_RDKFingerprint.pkl
+---
+encoding: ../1_Condensation/condensed_elements-smiles-bus.pkl
+encoded shape: (2671, 302)
+saved as: dataset_eab_GetHashedTopologicalTorsionFingerprintAsBitVect.pkl
+---
+encoding: ../1_Condensation/condensed_elements-smiles-bus.pkl
+encoded shape: (2671, 445)
+saved as: dataset_eab_dummy.pkl
+---
+encoding: ../1_Condensation/condensed_elements-smiles-bus.pkl
+encoded shape: (2671, 99)
+saved as: dataset_eab_cluster.pkl
+---
+encoding: ../1_Condensation/condensed_elements-smiles-bus.pkl
+encoded shape: (2671, 96)
+saved as: dataset_eab_None.pkl
+---
+encoding: ../1_Condensation/condensed_elements-smiles-bus.pkl
+encoded shape: (2671, 1106)
+saved as: dataset_eab_mdes.pkl
+---
+encoding: ../1_Condensation/condensed_elements-smiles-bus.pkl
+encoded shape: (2671, 426)
+saved as: dataset_eab_aemdes.pkl

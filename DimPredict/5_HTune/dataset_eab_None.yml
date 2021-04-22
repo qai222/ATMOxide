@@ -1,0 +1,5 @@
+batch_size: 128
+lr: 1.476931835092619e-05
+module__dropout: 0.37180458638428077
+module__h_layers: 1
+module__h_size: 1874

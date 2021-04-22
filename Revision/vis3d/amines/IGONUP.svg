@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='450px' height='450px' viewBox='0 0 450 450'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='450' height='450' x='0' y='0'> </rect>
+<path class='bond-0' d='M 381.057,226.404 L 352.099,211.592' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-0' d='M 352.099,211.592 L 323.141,196.779' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1' d='M 323.141,196.779 L 258.986,238.297' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2' d='M 258.986,238.297 L 190.953,203.495' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3' d='M 190.953,203.495 L 126.798,245.013' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-4' d='M 126.798,245.013 L 97.84,230.2' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-4' d='M 97.84,230.2 L 68.8824,215.388' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path  class='atom-0' d='M 386.39 220.759
+L 393.482 232.222
+Q 394.185 233.353, 395.316 235.401
+Q 396.447 237.449, 396.508 237.571
+L 396.508 220.759
+L 399.381 220.759
+L 399.381 242.401
+L 396.416 242.401
+L 388.805 229.868
+Q 387.919 228.401, 386.971 226.72
+Q 386.054 225.039, 385.779 224.519
+L 385.779 242.401
+L 382.967 242.401
+L 382.967 220.759
+L 386.39 220.759
+' fill='#0000FF'/>
+<path  class='atom-0' d='M 401.98 220.759
+L 404.914 220.759
+L 404.914 229.96
+L 415.979 229.96
+L 415.979 220.759
+L 418.914 220.759
+L 418.914 242.401
+L 415.979 242.401
+L 415.979 232.405
+L 404.914 232.405
+L 404.914 242.401
+L 401.98 242.401
+L 401.98 220.759
+' fill='#0000FF'/>
+<path  class='atom-0' d='M 419.963 241.641
+Q 420.487 240.29, 421.738 239.543
+Q 422.989 238.777, 424.724 238.777
+Q 426.882 238.777, 428.093 239.947
+Q 429.303 241.117, 429.303 243.195
+Q 429.303 245.313, 427.73 247.29
+Q 426.176 249.267, 422.948 251.607
+L 429.545 251.607
+L 429.545 253.221
+L 419.922 253.221
+L 419.922 251.87
+Q 422.585 249.973, 424.159 248.561
+Q 425.753 247.149, 426.519 245.878
+Q 427.286 244.607, 427.286 243.296
+Q 427.286 241.924, 426.6 241.157
+Q 425.914 240.39, 424.724 240.39
+Q 423.574 240.39, 422.807 240.854
+Q 422.041 241.318, 421.496 242.347
+L 419.963 241.641
+' fill='#0000FF'/>
+<path  class='atom-5' d='M 20.4545 199.391
+L 23.389 199.391
+L 23.389 208.592
+L 34.4542 208.592
+L 34.4542 199.391
+L 37.3886 199.391
+L 37.3886 221.033
+L 34.4542 221.033
+L 34.4542 211.037
+L 23.389 211.037
+L 23.389 221.033
+L 20.4545 221.033
+L 20.4545 199.391
+' fill='#0000FF'/>
+<path  class='atom-5' d='M 38.4377 220.273
+Q 38.9622 218.922, 40.213 218.175
+Q 41.4638 217.409, 43.1988 217.409
+Q 45.3574 217.409, 46.5679 218.579
+Q 47.7783 219.749, 47.7783 221.827
+Q 47.7783 223.945, 46.2047 225.922
+Q 44.6513 227.899, 41.4235 230.239
+L 48.0204 230.239
+L 48.0204 231.853
+L 38.3973 231.853
+L 38.3973 230.502
+Q 41.0603 228.605, 42.6339 227.193
+Q 44.2277 225.781, 44.9943 224.51
+Q 45.7609 223.239, 45.7609 221.928
+Q 45.7609 220.556, 45.075 219.789
+Q 44.3891 219.023, 43.1988 219.023
+Q 42.0489 219.023, 41.2822 219.487
+Q 40.5156 219.951, 39.9709 220.98
+L 38.4377 220.273
+' fill='#0000FF'/>
+<path  class='atom-5' d='M 53.981 199.391
+L 61.0725 210.854
+Q 61.7755 211.985, 62.9065 214.033
+Q 64.0375 216.081, 64.0986 216.203
+L 64.0986 199.391
+L 66.9719 199.391
+L 66.9719 221.033
+L 64.0069 221.033
+L 56.3958 208.5
+Q 55.5093 207.033, 54.5618 205.352
+Q 53.6447 203.671, 53.3696 203.151
+L 53.3696 221.033
+L 50.5575 221.033
+L 50.5575 199.391
+L 53.981 199.391
+' fill='#0000FF'/>
+</svg>

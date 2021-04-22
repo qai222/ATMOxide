@@ -1,0 +1,36 @@
+dimension,elements,bus,nms,ms,smiles
+3,"['La', 'O', 'C', 'Se']","[4, 13]","['C', 'O', 'Se']",['La'],C1CN2CCN1CC2
+3,"['Er', 'C', 'O', 'Se']","[3, 4]","['C', 'O', 'Se']",['Er'],NCCCCN
+2,"['Er', 'O', 'C', 'Se']","[4, 13]","['C', 'O', 'Se']",['Er'],CC1CNC(C)CN1
+1,"['Er', 'O', 'C', 'Se']","[4, 13]","['C', 'O', 'Se']",['Er'],c1cc(-c2ccncc2)ccn1
+3,"['Er', 'O', 'C']",[4],"['C', 'O']",['Er'],CC1CNC(C)CN1
+3,"['Er', 'C', 'O', 'Se']","[3, 4]","['C', 'O', 'Se']",['Er'],CC1CNCCN1
+2,"['Er', 'O', 'C']",[4],"['C', 'O']",['Er'],NCCNCCN
+3,"['Er', 'O', 'C']",[4],"['C', 'O']",['Er'],C1CN2CCN1CC2
+2,"['Er', 'O', 'C']",[4],"['C', 'O']",['Er'],NCCN
+3,"['Er', 'O', 'C']",[4],"['C', 'O']",['Er'],NCCN
+2,"['Nd', 'Cl', 'C', 'O']",[4],"['C', 'Cl', 'O']",['Nd'],C1CN2CCN1CC2
+2,"['V', 'Te', 'O']",[],['O'],"['Te', 'V']",NC1CCNC1
+2,"['V', 'Te', 'O']",[],['O'],"['Te', 'V']",CNCCN
+2,"['V', 'Te', 'O']",[],['O'],"['Te', 'V']",CC(CN)CCCN
+2,"['V', 'Te', 'O']",[],['O'],"['Te', 'V']",NC1CCNC1
+2,"['V', 'O', 'Se']",[3],"['O', 'Se']",['V'],NCCCN
+0,"['V', 'O']",[3],['O'],['V'],CC1CNCC(C)N1
+0,"['V', 'O', 'Se']",[3],"['O', 'Se']",['V'],NCCCN1CCN(CCCN)CC1
+0,"['V', 'O']",[],['O'],['V'],C1CNCCN1
+0,"['V', 'O']",[],['O'],['V'],CN1CCNCC1
+0,"['V', 'O']",[],['O'],['V'],C1CNCCNC1
+0,"['V', 'O']",[],['O'],['V'],NC1CN2CCC1CC2
+0,"['V', 'O']",[],['O'],['V'],CC1CNCCN1
+0,"['V', 'O']",[],['O'],['V'],NC1CCNC1
+0,"['V', 'O']",[],['O'],['V'],CNCCNC
+0,"['V', 'O']",[],['O'],['V'],NC1CCNCC1
+0,"['V', 'O']",[],['O'],['V'],CN(C)C(C)(C)CCN
+1,"['V', 'O']",[],['O'],['V'],CCCCCCCCN1CCNCC1
+0,"['V', 'O']",[],['O'],['V'],C[N+]12CN3CN(CN(C3)C1)C2
+0,"['Mo', 'O']",[],['O'],['Mo'],CN1CCNCC1
+1,"['Mo', 'O', 'S']",[2],"['O', 'S']",['Mo'],CN(C)CCN(C)C
+0,"['Mo', 'O']",[],['O'],['Mo'],CN(C)CCN(C)C
+1,"['Mo', 'O']",[],['O'],['Mo'],NCC1CCC(CN)CC1
+0,"['Mo', 'O']",[],['O'],['Mo'],NCCCCCCCN
+1,"['Mo', 'O']",[],['O'],['Mo'],CCNCCN(C)C

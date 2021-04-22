@@ -1,0 +1,234 @@
+a 0.6666666666666666 22.0 33
+b 0.6666666666666666 22.0 33
+c 1.0 33.0 33
+---
+elements     ['La', 'O', 'C', 'Se']
+smiles                 C1CN2CCN1CC2
+bus                         [4, 13]
+count_sum                         1
+Name: 2671, dtype: object
+[0. 0. 0. 1.] [0.05870167 0.12742443 0.625503   0.18837087] False
+---
+elements     ['Er', 'C', 'O', 'Se']
+smiles                       NCCCCN
+bus                          [3, 4]
+count_sum                         1
+Name: 2672, dtype: object
+[0. 0. 0. 1.] [0.04501956 0.04373567 0.14202632 0.7692184 ] True
+---
+elements     ['Er', 'O', 'C', 'Se']
+smiles                 CC1CNC(C)CN1
+bus                         [4, 13]
+count_sum                         1
+Name: 2673, dtype: object
+[0. 0. 1. 0.] [0.46459708 0.19757137 0.25671038 0.08112119] False
+---
+elements     ['Er', 'O', 'C', 'Se']
+smiles          c1cc(-c2ccncc2)ccn1
+bus                         [4, 13]
+count_sum                         1
+Name: 2674, dtype: object
+[0. 1. 0. 0.] [0.37082523 0.2062261  0.35114127 0.07180735] False
+---
+elements     ['Er', 'O', 'C']
+smiles           CC1CNC(C)CN1
+bus                       [4]
+count_sum                   1
+Name: 2675, dtype: object
+[0. 0. 0. 1.] [0.25873408 0.1020688  0.09769845 0.5414987 ] True
+---
+elements     ['Er', 'C', 'O', 'Se']
+smiles                    CC1CNCCN1
+bus                          [3, 4]
+count_sum                         1
+Name: 2676, dtype: object
+[0. 0. 0. 1.] [0.0528919  0.06576733 0.19041218 0.69092864] True
+---
+elements     ['Er', 'O', 'C']
+smiles                NCCNCCN
+bus                       [4]
+count_sum                   1
+Name: 2677, dtype: object
+[0. 0. 1. 0.] [0.16982739 0.05781316 0.06934252 0.703017  ] False
+---
+elements     ['Er', 'O', 'C']
+smiles           C1CN2CCN1CC2
+bus                       [4]
+count_sum                   1
+Name: 2678, dtype: object
+[0. 0. 0. 1.] [0.24845363 0.09912539 0.09827812 0.55414283] True
+---
+elements     ['Er', 'O', 'C']
+smiles                   NCCN
+bus                       [4]
+count_sum                   2
+Name: 2679, dtype: object
+[0.  0.  0.5 0.5] [0.16785583 0.05757341 0.0673974  0.7071734 ] True
+---
+elements     ['Nd', 'Cl', 'C', 'O']
+smiles                 C1CN2CCN1CC2
+bus                             [4]
+count_sum                         1
+Name: 2680, dtype: object
+[0. 0. 1. 0.] [0.0800712  0.11767889 0.29973087 0.5025191 ] False
+---
+elements     ['V', 'Te', 'O']
+smiles               NC1CCNC1
+bus                        []
+count_sum                   2
+Name: 2681, dtype: object
+[0. 0. 1. 0.] [0.2660341  0.24748014 0.37367943 0.11280637] True
+---
+elements     ['V', 'Te', 'O']
+smiles                  CNCCN
+bus                        []
+count_sum                   1
+Name: 2682, dtype: object
+[0. 0. 1. 0.] [0.30050254 0.20711373 0.35025343 0.14213029] True
+---
+elements     ['V', 'Te', 'O']
+smiles             CC(CN)CCCN
+bus                        []
+count_sum                   1
+Name: 2683, dtype: object
+[0. 0. 1. 0.] [0.3524487  0.19573681 0.33132234 0.12049215] False
+---
+elements     ['V', 'O', 'Se']
+smiles                  NCCCN
+bus                       [3]
+count_sum                   1
+Name: 2684, dtype: object
+[0. 0. 1. 0.] [0.17976837 0.13059548 0.3839063  0.3057298 ] True
+---
+elements       ['V', 'O']
+smiles       CC1CNCC(C)N1
+bus                   [3]
+count_sum               1
+Name: 2685, dtype: object
+[1. 0. 0. 0.] [0.37914562 0.1642797  0.20330858 0.25326613] True
+---
+elements       ['V', 'O', 'Se']
+smiles       NCCCN1CCN(CCCN)CC1
+bus                         [3]
+count_sum                     1
+Name: 2686, dtype: object
+[1. 0. 0. 0.] [0.2690874  0.14029725 0.35123095 0.23938443] False
+---
+elements     ['V', 'O']
+smiles         C1CNCCN1
+bus                  []
+count_sum             1
+Name: 2687, dtype: object
+[1. 0. 0. 0.] [0.6456412  0.13341722 0.11475806 0.10618357] True
+---
+elements     ['V', 'O']
+smiles        CN1CCNCC1
+bus                  []
+count_sum             1
+Name: 2688, dtype: object
+[1. 0. 0. 0.] [0.668678   0.13990587 0.10156033 0.08985577] True
+---
+elements     ['V', 'O']
+smiles        C1CNCCNC1
+bus                  []
+count_sum             1
+Name: 2689, dtype: object
+[1. 0. 0. 0.] [0.63848346 0.13605307 0.12283684 0.10262667] True
+---
+elements        ['V', 'O']
+smiles       NC1CN2CCC1CC2
+bus                     []
+count_sum                1
+Name: 2690, dtype: object
+[1. 0. 0. 0.] [0.6542713  0.15211418 0.11208478 0.08152977] True
+---
+elements     ['V', 'O']
+smiles        CC1CNCCN1
+bus                  []
+count_sum             1
+Name: 2691, dtype: object
+[1. 0. 0. 0.] [0.65408844 0.1436015  0.11002386 0.09228622] True
+---
+elements     ['V', 'O']
+smiles         NC1CCNC1
+bus                  []
+count_sum             1
+Name: 2692, dtype: object
+[1. 0. 0. 0.] [0.62789273 0.15581164 0.11913966 0.09715603] True
+---
+elements     ['V', 'O']
+smiles           CNCCNC
+bus                  []
+count_sum             1
+Name: 2693, dtype: object
+[1. 0. 0. 0.] [0.658951   0.13027099 0.10363285 0.1071452 ] True
+---
+elements     ['V', 'O']
+smiles        NC1CCNCC1
+bus                  []
+count_sum             1
+Name: 2694, dtype: object
+[1. 0. 0. 0.] [0.6371061  0.14455532 0.1172816  0.10105692] True
+---
+elements          ['V', 'O']
+smiles       CN(C)C(C)(C)CCN
+bus                       []
+count_sum                  1
+Name: 2695, dtype: object
+[1. 0. 0. 0.] [0.6861683  0.14249668 0.0836726  0.08766236] True
+---
+elements           ['V', 'O']
+smiles       CCCCCCCCN1CCNCC1
+bus                        []
+count_sum                   1
+Name: 2696, dtype: object
+[0. 1. 0. 0.] [0.7436381  0.10708743 0.07831763 0.07095688] False
+---
+elements                   ['V', 'O']
+smiles       C[N+]12CN3CN(CN(C3)C1)C2
+bus                                []
+count_sum                           1
+Name: 2697, dtype: object
+[1. 0. 0. 0.] [0.83133924 0.09800198 0.03410204 0.03655673] True
+---
+elements     ['Mo', 'O']
+smiles         CN1CCNCC1
+bus                   []
+count_sum              1
+Name: 2698, dtype: object
+[1. 0. 0. 0.] [0.7308744  0.18306364 0.05795003 0.02811199] True
+---
+elements     ['Mo', 'O', 'S']
+smiles           CN(C)CCN(C)C
+bus                       [2]
+count_sum                   1
+Name: 2699, dtype: object
+[0. 1. 0. 0.] [0.6789694  0.26021016 0.04844238 0.01237816] False
+---
+elements      ['Mo', 'O']
+smiles       CN(C)CCN(C)C
+bus                    []
+count_sum               1
+Name: 2700, dtype: object
+[1. 0. 0. 0.] [0.7708088  0.1667015  0.03946618 0.02302357] True
+---
+elements        ['Mo', 'O']
+smiles       NCC1CCC(CN)CC1
+bus                      []
+count_sum                 1
+Name: 2701, dtype: object
+[0. 1. 0. 0.] [0.74792725 0.16445099 0.06147843 0.02614336] False
+---
+elements     ['Mo', 'O']
+smiles         NCCCCCCCN
+bus                   []
+count_sum              1
+Name: 2702, dtype: object
+[1. 0. 0. 0.] [0.76272124 0.15638173 0.05333962 0.02755748] True
+---
+elements     ['Mo', 'O']
+smiles        CCNCCN(C)C
+bus                   []
+count_sum              1
+Name: 2703, dtype: object
+[0. 1. 0. 0.] [0.7414768  0.17954865 0.05199618 0.02697842] False

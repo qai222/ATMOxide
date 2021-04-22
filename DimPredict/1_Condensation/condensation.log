@@ -1,0 +1,67 @@
+--- CONDENSATION
+condensation with IF: ['elements']
+# orthogonal vector: 476 0.7010309278350515
+shape in: (3725, 7)
+shape out: (679, 2) (679, 4)
+out columns: Index(['elements', 'count_sum'], dtype='object')
+out dtypes: elements     object
+count_sum     int64
+dtype: object
+--- CONDENSATION
+condensation with IF: ['elements', 'bus']
+# orthogonal vector: 614 0.7496947496947497
+shape in: (3725, 7)
+shape out: (819, 3) (819, 4)
+out columns: Index(['elements', 'bus', 'count_sum'], dtype='object')
+out dtypes: elements     object
+bus          object
+count_sum     int64
+dtype: object
+--- CONDENSATION
+condensation with IF: ['elements', 'smiles', 'bus']
+# orthogonal vector: 2422 0.9067764882066641
+shape in: (3725, 7)
+shape out: (2671, 4) (2671, 4)
+out columns: Index(['elements', 'smiles', 'bus', 'count_sum'], dtype='object')
+out dtypes: elements     object
+smiles       object
+bus          object
+count_sum     int64
+dtype: object
+--- CONDENSATION
+condensation with IF: ['bus', 'ms', 'nms']
+# orthogonal vector: 614 0.7496947496947497
+shape in: (3725, 7)
+shape out: (819, 4) (819, 4)
+out columns: Index(['bus', 'ms', 'nms', 'count_sum'], dtype='object')
+out dtypes: bus          object
+ms           object
+nms          object
+count_sum     int64
+dtype: object
+--- CONDENSATION
+condensation with IF: ['smiles', 'bus', 'ms', 'nms']
+# orthogonal vector: 2422 0.9067764882066641
+shape in: (3725, 7)
+shape out: (2671, 5) (2671, 4)
+out columns: Index(['smiles', 'bus', 'ms', 'nms', 'count_sum'], dtype='object')
+out dtypes: smiles       object
+bus          object
+ms           object
+nms          object
+count_sum     int64
+dtype: object
+--- CONDENSATION
+condensation with IF: None
+# orthogonal vector: 3725 1.0
+shape in: (3725, 7)
+shape out: (3725, 7) (3725, 4)
+out columns: Index(['identifier', 'dimension', 'smiles', 'bus', 'elements', 'ms', 'nms'], dtype='object')
+out dtypes: identifier    object
+dimension      int64
+smiles        object
+bus           object
+elements      object
+ms            object
+nms           object
+dtype: object

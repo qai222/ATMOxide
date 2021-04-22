@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='450px' height='450px' viewBox='0 0 450 450'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='450' height='450' x='0' y='0'> </rect>
+<path class='bond-0' d='M 20.4545,233.927 L 122.727,174.88' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1' d='M 122.727,174.88 L 167.017,200.451' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1' d='M 167.017,200.451 L 211.308,226.022' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2' d='M 238.692,226.022 L 282.983,200.451' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2' d='M 282.983,200.451 L 327.273,174.88' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3' d='M 327.273,174.88 L 429.545,233.927' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path  class='atom-2' d='M 218.74 219.767
+L 228.02 234.767
+Q 228.94 236.247, 230.42 238.927
+Q 231.9 241.607, 231.98 241.767
+L 231.98 219.767
+L 235.74 219.767
+L 235.74 248.087
+L 231.86 248.087
+L 221.9 231.687
+Q 220.74 229.767, 219.5 227.567
+Q 218.3 225.367, 217.94 224.687
+L 217.94 248.087
+L 214.26 248.087
+L 214.26 219.767
+L 218.74 219.767
+' fill='#0000FF'/>
+<path  class='atom-2' d='M 213.92 250.919
+L 217.76 250.919
+L 217.76 262.959
+L 232.24 262.959
+L 232.24 250.919
+L 236.08 250.919
+L 236.08 279.239
+L 232.24 279.239
+L 232.24 266.159
+L 217.76 266.159
+L 217.76 279.239
+L 213.92 279.239
+L 213.92 250.919
+' fill='#0000FF'/>
+</svg>

@@ -1,0 +1,1 @@
+Workflow overview of this study. The dataset was constructed from previously published crystal structures in CSD, and used as inputs for machine learning models for dimensionality prediction. Finally, the model was validated by unpublished crystal structures.
