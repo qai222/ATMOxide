@@ -1,5 +1,5 @@
 # ATMOxide
-SI for `Predicting Dimensionality in Amine Templated Metal Oxides`.
+SI for [Predicting Dimensionality in Amine Templated Metal Oxides](https://aip.scitation.org/doi/full/10.1063/5.0044992).
 
 All files mentioned in the main text can be found in [mentioned_in_text](./mentioned_in_text) folder.
 
