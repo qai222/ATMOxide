@@ -6,7 +6,7 @@ All files mentioned in the main text can be found in [mentioned_in_text](./menti
 ## API
 1. [AnalysisModule](./AnalysisModule) contains tools for:
     1. [Calculating](./AnalysisModule/calculator) structural and molecular descriptors.
-    2. [Preparing](./AnalysisModule/prepare) data entries, e.g. disorder cleanup, organic-inorganic split. It also contains a 
+    2. [Preparing](./AnalysisModule/prepare) data entries, e.g. disorder cleanup, organic-inorganic split.
     3. [Routine](./AnalysisModule/routines) functions supporting 1. and 2.
 
     These tools were used in [DataGeneration](DataGeneration).
